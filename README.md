@@ -1,25 +1,42 @@
 
 # Full-Stack Web Developer
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-- **Frontend:** React, Bootstrap, Tailwind CSS
-- **Backend:** Express, Node.js, Flask, Python
-- **Databases:** MongoDB, MySQL
-- **CMS & Frameworks:** WordPress, Laravel
-- **Other:** Git, REST API, FastAPI, Graphic Design
+###Frontend
+-HTML5
+-CSS3 (Flexbox, Grid, Responsive Design)
+-JavaScript
+-Bootstrap / Tailwind
+-Figma (Web UI/UX)
+
+###Backend
+-Node.js
+-Express.js
+-PHP (Basic)
+-REST APIs
+
+###Database
+-MySQL
+-MongoDB (Basic)
+
+###Tools & Platforms
+-Git & GitHub
+-VS Code
+-Netlify / Vercel Deployment
+-Canva (Template Design)
 
 ## 🎓 Education
 
-- **Full-Stack Development** - Kodego Bootcamp (2022-2023)
-- **B.S. in Information Technology Major in Web and Game Development** - University of Mindanao (2019-2020)
+Bachelor of Science in Information Technology
+Major in Web & Game Development
 
 ## 🎯 Skills & Interests
 
 - Full Stack Development
 - UI/UX Design
 
-## 🌐 Connect With Me
+## 📫 Let's Connect
 
 - 📧 Email: meo.dagohoy@gmail.com
 ---
