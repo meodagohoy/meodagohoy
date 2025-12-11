@@ -29,3 +29,35 @@ You can click the Preview link to take a look at your changes.
 ![Static Badge](https://custom-icon-badges.demolab.com/badge/Playwright-%2345ba4b?style=for-the-badge&logo=playwright-badge&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/Cypress-%2369D3A7?style=for-the-badge&logo=cypress&labelColor=%232f3742)
 ![Static Badge](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&labelColor=%232f3742)
+
+# Software Developer
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Bootstrap, Tailwind CSS
+- **Backend:** Express, Node.js, Flask, Python
+- **Databases:** MongoDB, MySQL
+- **CMS & Frameworks:** WordPress, Laravel
+- **Other:** Git, REST API, FastAPI, Graphic Design
+
+## 🎓 Education
+
+- **Full Stack Development** - Kodego Bootcamp (2022-2023)
+- **B.S. in Computer Science** - University of Mindanao (2019-2020)
+- **Computer Hardware & Networking, NCII** - Maco Institute of Technology (2016-2018)
+
+## 🎯 Skills & Interests
+
+- Full Stack Development
+- UI/UX Design
+- Mobile App Development
+- Android Hacking
+- Computer Hardware & Networking
+
+## 🌐 Connect With Me
+
+- 📧 Email: rechceltoledo@gmail.com
+- 🔗 LinkedIn: [Rechcel Toledo](https://www.linkedin.com/in/rechcel-toledo-4502b6233/)
+- 🐦 Twitter: [@RechcelT](https://twitter.com/RechcelT)
+---
+</div>
