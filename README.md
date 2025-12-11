@@ -3,23 +3,23 @@
 
 ## 🚀 Tech Stack
 
-###Frontend
+### Frontend
 - HTML5
 - CSS3 (Flexbox, Grid, Responsive Design)
 - JavaScript
 - Bootstrap / Tailwind
 - Figma (Web UI/UX)
 
-###Backend
+### Backend
 - Node.js
 - Express.js
 - PHP (Basic)
 - REST APIs
 
-###Database
+### Database
 - MongoDB (Basic)
 
-###Tools & Platforms
+### Tools & Platforms
 - Git & GitHub
 - VS Code
 - Netlify / Vercel Deployment
