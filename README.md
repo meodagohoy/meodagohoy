@@ -1,5 +1,5 @@
 
-# Front-Stack Web Developer
+# Full-Stack Web Developer
 
 ## 🛠️ Tech Stack
 
