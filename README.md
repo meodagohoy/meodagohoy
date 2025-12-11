@@ -27,7 +27,7 @@
 
 ## 🎓 Education
 
-**Bachelor of Science in Information Technology**
+**Bachelor of Science in Information Technology** br
 *Major in Web & Game Development*
 
 ## 🎯 Skills & Interests
