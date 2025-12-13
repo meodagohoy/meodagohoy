@@ -1,7 +1,7 @@
 
 # Full-Stack Web Developer
 
-## 🚀 Tech Stack
+## 🔧 Tech Stack
 - **Frontend:** *HTML5, CSS3 (Flexbox, Grid, Responsive Design), JavaScript, Bootstrap / Tailwind, & Figma (Web UI/UX)*
 - **Backend:** *Node.js, Express.js, PHP (Basic), REST APIs*
 - **Database:** *MongoDB (Basic)*
