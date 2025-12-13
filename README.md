@@ -10,6 +10,7 @@
 
 ## 🎓 Education
 **Bachelor of Science in Information Technology**
+
 *Major in Web & Game Development*
 
 
