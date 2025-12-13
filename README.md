@@ -1,24 +1,18 @@
 
 # Full-Stack Web Developer
 
+
 ## 🔧 Tech Stack
 - **Frontend:**
-
-  HTML5 • CSS3 (Flexbox, Grid, Responsive Design) • JavaScript • Bootstrap / Tailwind • Figma (Web UI/UX)
-
+  *HTML5, CSS3 (Flexbox, Grid, Responsive Design), JavaScript, Bootstrap / Tailwind, Figma (Web UI/UX)*
 - **Backend:**
-  
-  Node.js • Express.js • PHP (Basic) • REST APIs
-  
+  *Node.js, Express.js, PHP (Basic), REST APIs*
 - **Database:**
-  
-  MongoDB (Basic)
-  
+  *MongoDB (Basic)*
 - **Tools & Platforms:**
-  
-  Git & GitHub • VS Code • Netlify / Vercel Deployment • Canva (Template Design)
-  
+  *Git & GitHub, VS Code, Netlify / Vercel Deployment, Canva (Template Design)*
 
+ 
 ## 🎓 Education
 **Bachelor of Science in Information Technology**
 
